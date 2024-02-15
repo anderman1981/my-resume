@@ -1,0 +1,74 @@
+{
+    "name": "Anderson Martínez Restrepo",
+    "profilePictureUrl": "images/pictures/avatar.png",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Fullstack and PHP Developer"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Fullstack y Desarrollador PHP"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "CR 46 75 sur -150",
+            "valueShort": "Sabaneta, ANT 055450",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "amr@andersonmares.xyz",
+            "valueShort": "amr@andersonmares.xyz",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:amr@andersonmares.xyz"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Anderson Martinez R.",
+            "valueShort": "andermanamr",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@anderman1981",
+            "valueShort": "@anderman1981",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "@andermanamr",
+            "valueShort": "@andermanamr",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@anderson.martinez.restrepo",
+            "valueShort": "@anderson.martinez.restrepo",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+57 (316) 826-5737",
+            "valueShort": "(316) 826-5737",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:573168265737"
+        }
+    }
+}

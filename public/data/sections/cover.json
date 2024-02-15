@@ -1,0 +1,31 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "<p> As a seasoned PHP Developer with a passion for development spanning over a decade, I've continually evolved with the ever-changing landscape of technology. My journey began in 2004, and since then, I've been captivated by the endless possibilities that PHP offers. My dedication to learning and growth has led me to specialize in crafting web applications tailored to meet the unique needs of organizations, with a focus on comprehensive administration covering areas such as performance evaluations, training, and production operations.</p><p> My expertise extends beyond PHP, encompassing a wide range of front-end and back-end technologies. Proficient in MySQL, I excel in creating and optimizing database queries to ensure seamless functionality. On the front-end, I leverage my skills in HTML, CSS, JavaScript, and jQuery to create visually appealing interfaces and enhance user experience.</p><p> I am committed to continuous learning and professional development, evident in my engagement with courses on Full Stack and Front-End Web Development through platforms like LinkedIn Learning. Currently, I'm focused on updating and migrating applications to PHP 7 and PHP 8 versions, ensuring they remain at the forefront of technology.</p><p> My professional journey has equipped me with the skills to collaborate effectively with cross-functional teams, analyze project requirements, and deliver high-quality solutions. I thrive in dynamic environments where innovation and excellence are paramount. With a proven track record of success at BUILT - Tech First, I am eager to bring my expertise in PHP development, problem-solving, and collaborative skills to a dynamic team focused on innovation and excellence.</p><p> In summary, I am a dedicated and results-driven PHP Developer with a deep commitment to continuous learning and professional growth. I am excited about the opportunity to contribute to projects that push the boundaries of technology and deliver exceptional solutions.</p>"
+        },
+
+        "es": {
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+            "welcomeShort": "¡Saludos!",
+            "bio": "<p> Como desarrollador de PHP experimentado, con una pasión por el desarrollo que se remonta a 2004, he evolucionado constantemente con el cambiante panorama tecnológico. Mi viaje comenzó en 2004, y desde entonces, he estado cautivado por las infinitas posibilidades que ofrece PHP. Mi dedicación al aprendizaje y crecimiento me ha llevado a especializarme en la creación de aplicaciones web adaptadas para satisfacer las necesidades únicas de las organizaciones, con un enfoque en la administración integral que abarca áreas como las evaluaciones de rendimiento, la capacitación y las operaciones de producción.</p><p> Mi experiencia se extiende más allá de PHP, abarcando una amplia gama de tecnologías de front-end y back-end. Competente en MySQL, sobresalgo en la creación y optimización de consultas de bases de datos para garantizar una funcionalidad sin problemas. En el front-end, aprovecho mis habilidades en HTML, CSS, JavaScript y jQuery para crear interfaces visualmente atractivas y mejorar la experiencia del usuario.</p><p> Estoy comprometido con el aprendizaje continuo y el desarrollo profesional, evidente en mi participación en cursos sobre Desarrollo Full Stack y Front-End a través de plataformas como LinkedIn Learning. Actualmente, estoy enfocado en actualizar y migrar aplicaciones a las versiones PHP 7 y PHP 8, asegurando que se mantengan a la vanguardia de la tecnología.</p><p> Mi trayectoria profesional me ha equipado con las habilidades para colaborar de manera efectiva con equipos multidisciplinarios, analizar los requisitos del proyecto y ofrecer soluciones de alta calidad. Prospero en entornos dinámicos donde la innovación y la excelencia son primordiales. Con un historial comprobado de éxito en BUILT - Tech First, estoy ansioso por aportar mi experiencia en desarrollo de PHP, resolución de problemas y habilidades colaborativas a un equipo dinámico enfocado en la innovación y la excelencia.</p><p> En resumen, soy un desarrollador de PHP dedicado y orientado a resultados con un profundo compromiso con el aprendizaje continuo y el crecimiento profesional. Estoy emocionado por la oportunidad de contribuir a proyectos que empujen los límites de la tecnología y entreguen soluciones excepcionales.</p>"
+        }
+
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.instagram}",
+            "@link{profile.contact.facebook}",
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}
