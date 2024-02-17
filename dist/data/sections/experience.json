@@ -1,0 +1,79 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        },
+
+        "es": {
+            "title": "<span class='text-primary'>Experiencia</span> Profesional",
+            "description": "Un vistazo a mi experiencia laboral y trayectoria profesional."
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.incolmotos}",
+            "period": ["2000/10", "2022/10"],
+            "locales": {
+                "en": {
+                    "title": "Systems Analyst",
+                    "description": "Implemented, customized, and managed the Moodle virtual training application. Implemented, customized, and managed the Intranet in Joomla. Documented new projects and implemented them according to project specifications. Integrated systems to implement administration applications for HR, Production, Documentation, etc. Analyzed and implemented new development technologies and tools that improved and optimized processes. Technologies used to work: PHP, MySQL, HTML, CSS, ASP, SQL, Javascript, Jquery, .NET, Power Platforms"
+                },
+                "es": {
+                    "title": "Analista de Sistemas",
+                    "description": "Implementé, personalicé y gestioné la aplicación de formación virtual Moodle. Implementé, personalicé y gestioné la intranet en Joomla. Documenté nuevos proyectos e implementé según las especificaciones del proyecto. Integré sistemas para implementar aplicaciones administrativas para RRHH, Producción, Documentación, etc. Analicé e implementé nuevas tecnologías y herramientas de desarrollo que mejoraron y optimizaron procesos. Tecnologías con las que se trabajo:  PHP, MySQL, HTML, CSS, ASP, SQL, Javascript, Jquery, .NET, Power Platforms"
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.cti}",
+            "period": ["2022/01", "2022/02"],
+            "locales": {
+                "en": {
+                    "title": "PHP Developer",
+                    "description": "Fixed bugs found by QA testers, documented development processes, and studied new technologies to make modifications and adjustments to the applications. Technologies used to work: PHP, Laravel, YII2, Angularjs, Nodejs, MySQL, SQL, Javascript, Jquery, Reactjs, Webflow, Power Platforms"
+                },
+                "es": {
+                    "title": "Desarrollador PHP",
+                    "description": "Corregí errores encontrados por los probadores de QA, documenté procesos de desarrollo y estudié nuevas tecnologías para realizar modificaciones y ajustes a las aplicaciones. Tecnologías con las que se trabajo: PHP, Laravel, YII2, Angularjs, Nodejs, MySQL, SQL, Javascript, Jquery, Reactjs, Webflow, Power Platforms"
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_3",
+            "place": "@link{places.techFirst}",
+            "period": ["2022/02", "2024/03"],
+            "locales": {
+                "en": {
+                    "title": "PHP Developer",
+                    "description": "Collaborated with testers to rectify site errors and optimize new functionalities of applications. Incorporated new technologies and functionalities to enhance application performance. Worked with designers to implement changes and improvements. Collaborated with team members in all project phases. Technologies used to work: PHP, Laravel, YII2, Angularjs, Nodejs, MySQL, SQL, Javascript, Jquery, Reactjs, Webflow, Power Platforms"
+                },
+                "es": {
+                    "title": "Desarrollador PHP",
+                    "description": "Colaboré con testers para corregir errores del sitio y optimizar nuevas funcionalidades de aplicaciones. Incorporé nuevas tecnologías y funcionalidades para mejorar el rendimiento de la aplicación. Trabajé con diseñadores para implementar cambios y mejoras. Colaboré con miembros del equipo en todas las fases del proyecto. Tecnologías con las que se trabajo: PHP, Laravel, YII2, Angularjs, Nodejs, MySQL, SQL, Javascript, Jquery, Reactjs, Webflow, Power Platforms"
+                }
+            }
+        },
+        
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.built}",
+            "period": ["2022/02", "2024/03"],
+            "locales": {
+                "en": {
+                    "title": "PHP Developer",
+                    "description": "Collaborated with testers to rectify site errors and optimize new functionalities of applications. Incorporated new technologies and functionalities to enhance application performance. Worked with designers to implement changes and improvements. Collaborated with team members in all project phases. Technologies used to work: PHP, Laravel, YII2, Angularjs, Nodejs, MySQL, SQL, Javascript, Jquery, Reactjs, Webflow, Power Platforms"
+                },
+                "es": {
+                    "title": "Desarrollador PHP",
+                    "description": "Colaboré con testers para corregir errores del sitio y optimizar nuevas funcionalidades de aplicaciones. Incorporé nuevas tecnologías y funcionalidades para mejorar el rendimiento de la aplicación. Trabajé con diseñadores para implementar cambios y mejoras. Colaboré con miembros del equipo en todas las fases del proyecto. Tecnologías con las que se trabajo: PHP, Laravel, YII2, Angularjs, Nodejs, MySQL, SQL, Javascript, Jquery, Reactjs, Webflow, Power Platforms"
+                }
+            }
+        }
+    ]
+}

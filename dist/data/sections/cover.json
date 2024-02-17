@@ -1,0 +1,32 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "<p> Allow me to introduce myself, I am Anderson Martinez, a passionate software developer with extensive experience in the field. Over the years, I have cultivated and honed a variety of technical and soft skills that have allowed me to excel in my professional career.</p><p> In terms of technical skills, my experience primarily revolves around web application development using a variety of technologies including PHP, Laravel, MySQL, HTML, CSS, JavaScript, jQuery, and more. I have worked on challenging projects ranging from creating custom applications to optimizing databases and implementing web services.</p><p> In addition to my technical skills, I take pride in possessing strong soft skills that have enabled me to work effectively in collaborative and multidisciplinary environments. My ability to communicate effectively has allowed me to successfully collaborate with colleagues from different departments and convey ideas clearly and concisely. I am a proactive and recursive problem solver, capable of tackling complex challenges with creativity and adaptability. My team-centered approach and quick adaptability to new situations have allowed me to work effectively in diverse and dynamic teams.</p><p> In my previous role as a PHP developer at BUILT - Tech First, I was responsible for closely collaborating with the development team to implement new features and optimize existing applications. I worked in collaboration with designers and testers to rectify site errors and continuously enhance the user experience. My ability to quickly adapt to new technologies and my proactive approach to problem-solving allowed me to make significant contributions to the team's success.</p><p> Furthermore, my experience as a systems analyst at Incolmotos Yamaha S.A. provided me with a solid understanding of project management and technological solution implementation. I worked on projects involving the implementation and customization of virtual training applications and intranet management, demonstrating my ability to manage multiple tasks and meet deadlines.</p><p> In summary, I am a dedicated and results-oriented software developer with solid technical expertise and exceptional soft skills. I am excited about the opportunity to apply my skills and experience in a dynamic environment like yours and contribute to your team's success.</p><p> Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your team's success in greater detail.</p>"
+        },
+
+        "es": {
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+            "welcomeShort": "¡Saludos!",
+            "bio": "<p> Permíteme presentarme, soy Anderson Martinez Restrepo, un apasionado desarrollador de software con una amplia experiencia en el campo. A lo largo de los años, he cultivado y perfeccionado una variedad de habilidades técnicas y blandas que me han permitido destacarme en mi carrera profesional.</p><p> En términos de habilidades técnicas, mi experiencia se centra principalmente en el desarrollo de aplicaciones web utilizando una variedad de tecnologías, incluyendo PHP, Laravel, MySQL, HTML, CSS, JavaScript, jQuery y más. He trabajado en proyectos desafiantes que abarcan desde la creación de aplicaciones personalizadas hasta la optimización de bases de datos y la implementación de servicios web.</p><p> Además de mis habilidades técnicas, me enorgullezco de poseer fuertes habilidades blandas que me han permitido trabajar de manera efectiva en entornos colaborativos y multidisciplinarios. Mi capacidad de comunicación efectiva me ha permitido colaborar con éxito con colegas de diferentes departamentos y transmitir ideas de manera clara y concisa. Soy un solucionador de problemas proactivo y recursivo, capaz de abordar desafíos complejos con creatividad y adaptabilidad. Mi enfoque centrado en el equipo y mi capacidad para adaptarme rápidamente a nuevas situaciones me han permitido trabajar de manera efectiva en equipos diversos y dinámicos.</p><p> En mi trabajo anterior como desarrollador PHP en BUILT - Tech First, fui responsable de colaborar estrechamente con el equipo de desarrollo para implementar nuevas funcionalidades y optimizar aplicaciones existentes. Trabajé en colaboración con diseñadores y probadores para corregir errores del sitio y mejorar continuamente la experiencia del usuario. Mi capacidad para adaptarme rápidamente a nuevas tecnologías y mi enfoque proactivo en la resolución de problemas me permitieron contribuir de manera significativa al éxito del equipo.</p><p> Además, mi experiencia como analista de sistemas en Incolmotos Yamaha S.A. me proporcionó una sólida comprensión de la gestión de proyectos y la implementación de soluciones tecnológicas. Trabajé en proyectos de implementación y personalización de aplicaciones de formación virtual y gestión de la intranet, demostrando mi capacidad para gestionar múltiples tareas y cumplir con los plazos.</p><p> En resumen, soy un desarrollador de software dedicado y orientado a resultados con una sólida experiencia técnica y habilidades blandas excepcionales. Estoy emocionado por la oportunidad de aplicar mis habilidades y experiencia en un entorno dinámico como el suyo y contribuir al éxito de su equipo.</p><p> Gracias por considerar mi candidatura. Estoy ansioso por tener la oportunidad de discutir cómo puedo contribuir al éxito de su equipo en mayor detalle.</p>"
+        }
+
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.instagram}",
+            "@link{profile.contact.facebook}",
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.whatsapp}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}

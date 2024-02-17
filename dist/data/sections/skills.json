@@ -1,0 +1,356 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Discovering my variety of acquired and improved skills:"
+        },
+        "es": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Descubriendo mi variedad de habilidades adquiridas y mejoradas:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {"title": "Programming"},
+                "es": {"title": "Programación"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {"title": "Languages"},
+                "es": {"title": "Idiomas"}
+            }
+        },
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": "Bonus Skills"},
+                "es": {"title": "Habilidades Adicionales"}
+            }
+        }
+    ],
+
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "far fa-comments",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Communication",
+                        "description": "Effective communication skills to convey ideas clearly and collaborate efficiently."
+                    },
+                    "es": {
+                        "title": "Comunicación",
+                        "description": "Habilidades efectivas de comunicación para transmitir ideas claramente y colaborar eficientemente."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-lightbulb",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Creativity",
+                        "description": "Creative thinking and problem-solving abilities to develop innovative solutions."
+                    },
+                    "es": {
+                        "title": "Creatividad",
+                        "description": "Capacidad de pensamiento creativo y resolución de problemas para desarrollar soluciones innovadoras."
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-undo",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Adaptability",
+                        "description": "Collaborative skills to work effectively in multidisciplinary teams and achieve common goals."
+                    },
+                    "es": {
+                        "title": "Adaptabilidad",
+                        "description": "Habilidades colaborativas para trabajar eficazmente en equipos multidisciplinarios y alcanzar objetivos comunes."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-users",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Teamwork",
+                        "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
+                    },
+                    "es": {
+                        "title": "Trabajo en Equipo",
+                        "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-bolt",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Proactive",
+                        "description": "Proactive approach to anticipate challenges and take initiative in finding solutions."
+                    },
+                    "es": {
+                        "title": "Proactividad",
+                        "description": "Enfoque proactivo para anticipar desafíos y tomar la iniciativa en la búsqueda de soluciones."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-recycle",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Recursive",
+                        "description": "Ability to think recursively to break down complex problems into manageable parts."
+                    },
+                    "es": {
+                        "title": "Recursividad",
+                        "description": "Capacidad para pensar recursivamente y descomponer problemas complejos en partes manejables."
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-puzzle-piece",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Problem Solving",
+                        "description": "Strong problem-solving skills to analyze issues and implement effective solutions."
+                    },
+                    "es": {
+                        "title": "Resolución de Problemas",
+                        "description": "Fuertes habilidades para la resolución de problemas para analizar situaciones e implementar soluciones efectivas."
+                    }
+                }
+            }
+        ],
+
+        "programming": [
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-html5",
+                    "value": 80,
+                    "locales": {
+                        "en": {"title": "HTML 5", "description": "Experience Time: 8 years"},
+                        "es": {"title": "HTML 5", "description": "Experiencia: 8 años"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-css3",
+                    "value": 80,
+                    "locales": {
+                        "en": {"title": "CSS 3", "description": "Experience Time: 8 years"},
+                        "es": {"title": "CSS 3", "description": "Experiencia: 8 años"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-php",
+                    "value": 80,
+                    "locales": {
+                        "en": {"title": "PHP", "description": "Experience Time: 13 years"},
+                        "es": {"title": "PHP", "description": "Experiencia: 13 años"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fas fa-database",
+                    "value": 80,
+                    "locales": {
+                        "en": {"title": "MySQL", "description": "Experience Time: 13 years"},
+                        "es": {"title": "MySQL", "description": "Experiencia: 13 años"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-js",
+                    "value": 60,
+                    "locales": {
+                        "en": {"title": "JavaScript", "description": "Experience Time: 8 years"},
+                        "es": {"title": "JavaScript", "description": "Experiencia: 8 años"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-git",
+                    "value": 80,
+                    "locales": {
+                        "en": {"title": "GIT", "description": "Experience Time: 3 years"},
+                        "es": {"title": "GIT", "description": "Experiencia: 3 años"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-laravel",
+                    "value": 60,
+                    "locales": {
+                        "en": {"title": "Laravel", "description": "Experience Time: 2 years"},
+                        "es": {"title": "Laravel", "description": "Experiencia: 2 años"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-angular",
+                    "value": 60,
+                    "locales": {
+                        "en": {"title": "Angular.js", "description": "Experience Time: 1 year"},
+                        "es": {"title": "Angular.js", "description": "Experiencia: 1 año"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-node-js",
+                    "value": 60,
+                    "locales": {
+                        "en": {"title": "Node.js", "description": "Experience Time: 1 year"},
+                        "es": {"title": "Node.js", "description": "Experiencia: 1 año"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-wordpress",
+                    "value": 40,
+                    "locales": {
+                        "en": {"title": "Wordpress", "description": "Experience Time: 1 year"},
+                        "es": {"title": "Wordpress", "description": "Experiencia: 1 año"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-react",
+                    "value": 60,
+                    "locales": {
+                        "en": {"title": "React.js", "description": "Experience Time: 1 year"},
+                        "es": {"title": "React.js", "description": "Experiencia: 1 año"}
+                    }
+                },
+                {
+                    "imageIconUrl": null,
+                    "faIcon": "fab fa-vuejs",
+                    "value": 40,
+                    "locales": {
+                        "en": {"title": "Vue.js", "description": "Experience Time: 1 year"},
+                        "es": {"title": "Vue.js", "description": "Experiencia: 1 año"}
+                    }
+                }
+            
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {"title": "Spanish", "description": "Native speaker with excellent communication and writing skills."},
+                    "es": {"title": "Español", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/es.png",
+                "faIcon": null,
+                "value": 70,
+                "locales": {
+                    "en": {"title": "English", "description": "Proficient speaker with good communication and writing skills."},
+                    "es": {"title": "Inglés", "description": "Hablante competente con buenas habilidades de comunicación y escritura."}
+                }
+            }
+        ],
+
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-rocket",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Innovative Thinking", "description": "Demonstrates creativity and innovative thinking in finding solutions."},
+                    "es": {"title": "Pensamiento Innovador", "description": "Demuestra creatividad y pensamiento innovador en la búsqueda de soluciones."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-handshake",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Professionalism", "description": "Demonstrates professionalism in all interactions and tasks."},
+                    "es": {"title": "Profesionalismo", "description": "Demuestra profesionalismo en todas las interacciones y tareas."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-handshake",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Collaboration", "description": "Works effectively in a team environment, fostering collaboration and synergy."},
+                    "es": {"title": "Colaboración", "description": "Trabaja eficazmente en un entorno de equipo, fomentando la colaboración y la sinergia."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-chart-line",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Data Analysis", "description": "Proficient in analyzing and interpreting data to derive insights and make informed decisions."},
+                    "es": {"title": "Análisis de Datos", "description": "Competente en analizar e interpretar datos para obtener ideas y tomar decisiones informadas."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-desktop",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Webflow & Power Platform", "description": "Proficient in designing web interfaces using Webflow and integrating Power Platform tools to develop apps and services utilizing Power Automate resources, databases, and more."},
+                    "es": {"title": "Webflow & Power Platform", "description": "Competente en el diseño de interfaces web utilizando Webflow e integrando herramientas de Power Platform para desarrollar aplicaciones y servicios que utilizan recursos de Power Automate, bases de datos y más."}
+                }
+            }
+        ]
+        
+
+    }
+}
