@@ -20,6 +20,7 @@ jobs:
           node-version: ${{ matrix.node }}
       - run: npm i @vue/cli-service
       - run: npm run build
+      - run: npm run dev
       - uses: actions/upload-artifact@v3
         with:
            name: my-resume
