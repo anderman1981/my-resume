@@ -71,5 +71,69 @@
         "locales": {
             "en": {"name": "UX Masters Studio"}
         }
+    },
+    
+    "inLearning": {
+        "logoUrl": "images/places/logo-in-learning.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "LinkedIn Learning"}
+        }
+    },
+
+    "linkedin": {
+        "logoUrl": "images/places/logo-linkedin.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "UX Masters Studio"}
+        }
+    },
+
+    "unisabaneta": {
+        "logoUrl": "images/places/logo-unisabaneta.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Corporación Universitaria de Sabaneta - UNISABANETA"}
+        }
+    },
+
+    "compuedu": {
+        "logoUrl": "images/places/logo-compuedu.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Compuedu"}
+        }
+    },
+
+    "techFirst": {
+        "logoUrl": "images/places/logo-tech-first.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Tech First LLC"}
+        }
+    },
+
+    "built": {
+        "logoUrl": "images/places/logo-built.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "BUILT"}
+        }
+    },
+
+    "cti": {
+        "logoUrl": "images/places/logo-cti.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "CTI Consulting"}
+        }
+    },
+
+    "incolmotos": {
+        "logoUrl": "images/places/logo-incolmotos.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Incolmotos Yamaha S.A."}
+        }
     }
 }
