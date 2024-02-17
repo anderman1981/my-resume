@@ -1,5 +1,7 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=./public_html  # Ruta de despliegue en el servidor
+    - export DEPLOYPATH=./public_html/my-resume/  # Ruta de despliegue en el servidor
+
     - npm install                      # Instalar dependencias de npm
     - npm run build     
+    - npm run dev
