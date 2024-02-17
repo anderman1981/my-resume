@@ -1,0 +1,139 @@
+{
+    "adobe": {
+        "logoUrl": "images/places/logo-adobe.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Adobe Inc."}
+        }
+    },
+
+    "apple": {
+        "logoUrl": "images/places/logo-apple.png",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {"name": "Apple Inc."}
+        }
+    },
+
+    "coursera": {
+        "logoUrl": "images/places/logo-coursera.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Coursera"}
+        }
+    },
+
+    "forbes": {
+        "logoUrl": null,
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "en": {"name": "Forbes"}
+        }
+    },
+
+    "google": {
+        "logoUrl": null,
+        "faIcon": "fab fa-google",
+        "locales": {
+            "en": {"name": "Google"}
+        }
+    },
+
+    "harvard": {
+        "logoUrl": "images/places/logo-harvard.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Harvard University"},
+            "es": {"name": "Universidad de Harvard"}
+        }
+    },
+
+    "paris": {
+        "logoUrl": "images/places/logo-paris-university.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "University of Paris"},
+            "es": {"name": "Universidad de París"}
+        }
+    },
+
+    "udacity": {
+        "logoUrl": "images/places/logo-udacity.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Udacity"}
+        }
+    },
+
+    "uxStudio": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "UX Masters Studio"}
+        }
+    },
+    
+    "inLearning": {
+        "logoUrl": "images/places/logo-in-learning.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "LinkedIn Learning"}
+        }
+    },
+
+    "linkedin": {
+        "logoUrl": "images/places/logo-linkedin.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "UX Masters Studio"}
+        }
+    },
+
+    "unisabaneta": {
+        "logoUrl": "images/places/logo-unisabaneta.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Corporación Universitaria de Sabaneta - UNISABANETA"}
+        }
+    },
+
+    "compuedu": {
+        "logoUrl": "images/places/logo-compuedu.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Compuedu"}
+        }
+    },
+
+    "techFirst": {
+        "logoUrl": "images/places/logo-tech-first.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Tech First LLC"}
+        }
+    },
+
+    "built": {
+        "logoUrl": "images/places/logo-built.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "BUILT"}
+        }
+    },
+
+    "cti": {
+        "logoUrl": "images/places/logo-cti.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "CTI Consulting"}
+        }
+    },
+
+    "incolmotos": {
+        "logoUrl": "images/places/logo-incolmotos.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Incolmotos Yamaha S.A."}
+        }
+    }
+}

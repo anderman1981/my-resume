@@ -1,0 +1,69 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory and accomplishments."
+        },
+
+        "es": {
+            "title": "Antecedentes <span class='text-primary'>Educativos</span>",
+            "description": "Un vistazo a mi trayectoria académica y logros."
+        }
+    },
+
+    "items": [
+        {
+            "id": "system_technician",
+            "place": "@link{places.compuedu}",
+            "period": ["2003/02", "2004/06"],
+
+            "locales": {
+                "en": {
+                    "title": "Systems technician",
+                    "description": "Throughout my studies in systems engineering, I acquired strong competencies in HTML programming and the utilization of Macromedia design tools. My focus was on web application creation and development, where I gained specialized skills in building interactive and visually appealing user interfaces. Additionally, I learned to efficiently integrate multimedia elements and optimize website performance for an optimal user experience."
+                },
+
+                "es": {
+                    "title": "Técnico de sistemas",
+                    "description": "Durante mi formación en la técnica de sistemas, adquirí competencias sólidas en programación HTML y el uso de herramientas de diseño de Macromedia. Mi enfoque se centró en la creación y el desarrollo de aplicaciones web, donde obtuve habilidades especializadas en la construcción de interfaces de usuario interactivas y visualmente atractivas. Además, aprendí a integrar eficientemente elementos multimedia y a optimizar el rendimiento de sitios web para una experiencia de usuario óptima."
+                }
+            }
+        },
+
+        {
+            "id": "computer_engineer",
+            "place": "@link{places.unisabaneta}",
+            "period": ["2014/08", "2018/05"],
+
+            "locales": {
+                "en": {
+                    "title": "Computer Engineer",
+                    "description": "As a Computer Engineer, I possess the capability to deliver comprehensive technological solutions to organizations in both the public and private sectors. I specialize in the design, development, configuration, and implementation of database systems, software, and computer networks. Moreover, I have expertise in applying artificial intelligence techniques in data mining and utilizing simulation tools to foster innovation."
+                },
+
+                "es": {
+                    "title": "Ingeniero informático",
+                    "description": "Gracias a mi formación en Ingeniería Informática, poseo la capacidad de ofrecer soluciones informáticas tanto para organizaciones públicas como privadas. Estoy entrenado en técnicas de diseño, desarrollo, configuración e implementación de bases de datos, software y redes informáticas. Además, cuento con experiencia en el uso de técnicas de inteligencia artificial en minería de datos y herramientas de simulación para impulsar la innovación."
+                }
+            }
+        },
+        
+        {
+            "id": "online_course_linkedin",
+            "place": "@link{places.inLearning}",
+            "period": ["2021/04", "2021/05"],
+
+            "locales": {
+                "en": {
+                    "title": "Become a full-stack web developer",
+                    "description": "I have acquired the necessary skills to work as a full-stack developer, mastering both back-end and front-end technologies. Throughout my journey, I have built a solid foundation by working with the most widely-used frameworks and mastering tools that enable me to tackle complex projects either independently or in collaboration with other developers. I am excited to apply this skill set to create innovative solutions and take on exciting challenges in the realm of web development."
+                },
+
+                "es": {
+                    "title": "Conviértete en desarrollador web full-stack",
+                    "description": "He adquirido las habilidades esenciales para desempeñarme como un desarrollador full-stack, capacitándome tanto en tecnologías back-end como front-end. Durante mi trayectoria, he cimentado bases sólidas al trabajar con los frameworks más influyentes, y he dominado herramientas que me permiten abordar proyectos complejos de manera autónoma o en colaboración con otros desarrolladores. Estoy entusiasmado/a por aplicar este conjunto de habilidades para crear soluciones innovadoras y enfrentar desafíos emocionantes en el mundo del desarrollo web."
+                }
+            }
+        }
+    ]
+}
