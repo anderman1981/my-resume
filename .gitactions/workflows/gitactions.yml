@@ -1,0 +1,26 @@
+name: my-resume
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [ 18 ]
+    name: Node ${{ matrix.node }} sample
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node }}
+      - run: npm i @vue/cli-service
+      - run: npm run build
+      - uses: actions/upload-artifact@v3
+        with:
+           name: my-resume
+           path: cdi # or path/to/artifact   
