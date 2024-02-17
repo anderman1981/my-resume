@@ -4,12 +4,12 @@
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "",
             "role": "Fullstack and PHP Developer"
         },
 
         "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "",
             "role": "Fullstack y Desarrollador PHP"
         }
     },
@@ -75,7 +75,7 @@
             "id": "whatsapp",
             "value": "+57 (316) 826-5737",
             "valueShort": "(316) 826-5737",
-            "faIcon": "fa-solid fa-phone",
+            "faIcon": "fa-brands fa-whatsapp",
             "href": "https://api.whatsapp.com/send?phone=573168265737"
         }
     }
